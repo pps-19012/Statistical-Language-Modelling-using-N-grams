@@ -15,14 +15,11 @@ Computers were once thought of as “dumb terminals,” and human interactions w
 
 ## Interface
 
-![image](https://user-images.githubusercontent.com/72244706/167398395-d8776822-691b-494d-81e2-d5feee4c33fc.png)
-
-
 [Link to the Interface](https://huggingface.co/spaces/Shruhrid/Next_Word_Prediction)
 
 
-### [Project Report](https://github.com/MumukshTayal/Statistical-Language-Modeling-N-grams/blob/main/Report.pdf)
-### [Code](https://github.com/MumukshTayal/Statistical-Language-Modeling-N-grams/blob/main/Project_Code.ipynb)
+### [Project Report](https://github.com/pps-19012/Statistical-Language-Modelling-using-N-grams/blob/main/Report.pdf)
+### [Code](https://github.com/pps-19012/Statistical-Language-Modelling-using-N-grams/blob/main/Project_Code.ipynb)
 
 ## Requirements 
 
