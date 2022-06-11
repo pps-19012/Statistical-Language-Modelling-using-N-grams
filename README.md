@@ -27,11 +27,3 @@ Computers were once thought of as “dumb terminals,” and human interactions w
 ## Requirements 
 
 nltk
-
-## License
-
-The code is licenced under the MIT license and free to use by anyone without any restrictions.
-
-***
-
-<p align='center'>Created with :heart: by <a href="https://github.com/MumukshTayal">Mumuksh Tayal</a></p>
